@@ -1,6 +1,9 @@
 
 # 🛴 Gans ETL Pipeline (Data Acquisition)
 
+### 🔍 Project Overview
+
+**An end-to-end ETL (Extract → Transform → Load) data pipeline built to help the fictional e-scooter startup Gans predict where its scooters need to be, by collecting and storing city, weather, and flight data from three external sources.**
 
 ### 🧰 Technologies & Tools
 
@@ -9,11 +12,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.0-orange?style=flat-square)
 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### 🔍 Project Overview
-
-**An end-to-end ETL (Extract → Transform → Load) data pipeline built to help the fictional e-scooter startup Gans predict where its scooters need to be, by collecting and storing city, weather, and flight data from three external sources.
----**
 
 ### 🧠 The Problem
 
